@@ -1,0 +1,7 @@
+individual section responsible - Xam-server.
+jar files are in the jar folder inside the Xam-server.
+sql code file is in the db folder inside the Xam-server.
+
+Thank You.
+Kind Regards,
+S.M.K.G.G Abeywardana (1823512 - group 24).
